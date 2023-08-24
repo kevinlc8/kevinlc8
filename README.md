@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinlc8
+- 👋 Hi, I’m Kevin Chen
 - 👀 I’m interested in biotechnology
 - 🌱 I’m currently learning at UNC Chapel Hill
 - 📫 How to reach me: kevinlc@email.unc.edu
